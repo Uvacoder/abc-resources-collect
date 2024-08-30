@@ -17,7 +17,7 @@
          <a class="flex items-center space-x-3 md:space-x-4" href="https://twitter.com/csaba_kissi">
             <img src="/assets/images/csabakissi.jpg" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300" alt="@csaba_kissi"/>
             <div>
-               <div class="font-bold">Csaba Kissi</div>
+               <div class="font-bold">uvacoder</div>
                <div class="text-xs font-medium md:text-sm">idea + site</div>   
            </div>
         </a>
