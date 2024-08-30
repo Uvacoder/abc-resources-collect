@@ -3,7 +3,7 @@ use Illuminate\Support\Str;
 
 return [
     'production' => false,
-    'baseUrl' => 'http://localhost:3000',
+    'baseUrl' => 'https://abc-resources-collect.vercel.app',
     'title' => 'Design resources for Developers',
     'description' => 'Design resources for Developers',
     'collections' => [    
