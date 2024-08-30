@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://designresources.dev',
+    'baseUrl' => 'https://abc-resources-collect.vercel.app',
     'production' => true,
 ];
